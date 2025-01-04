@@ -1,0 +1,39 @@
+{
+    "Items": [
+        {
+            "Item Name": "Rajarams Masala Pori 100GM",
+            "Qty": 5,
+            "MRP": 40.0,
+            "Rate": 36.0,
+            "Amount": 180.0
+        },
+        {
+            "Item Name": "Pediasure Premium Chocolate Refill 20",
+            "Qty": 1,
+            "MRP": 420.0,
+            "Rate": 399.0,
+            "Amount": 399.0
+        },
+        {
+            "Item Name": "Cotton Bag RS 10",
+            "Qty": 1,
+            "MRP": 10.0,
+            "Rate": 10.0,
+            "Amount": 10.0
+        },
+        {
+            "Item Name": "Meswak Toothpaste 200GM",
+            "Qty": 1,
+            "MRP": 140.0,
+            "Rate": 133.0,
+            "Amount": 133.0
+        }
+    ],
+    "Summary": {
+        "Total Qty": 8,
+        "Total Items": 4,
+        "Total MRP": 770.0,
+        "Total Amount": 722.0,
+        "Total Discount": 48.0
+    }
+}
